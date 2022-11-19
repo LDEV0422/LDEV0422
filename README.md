@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**LDEV0422/LDEV0422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ✨ The Spectacondulivious Codingomation of Sergeant Major L$Dev ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center"><img src="" alt="l§dev profile banner" style="width: 100%"></p>
+
+
+Salut 👋
+<br />
+Here's more code.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDEV0422&hide=stars,commits,prs,issues,contribs&layout=compact&theme=cobalt)](https://github.com/LDEV0422)
+
+
+# Peace be upon you
