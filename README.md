@@ -1,6 +1,6 @@
 
 
-## ✨ The Spectacondulivious Codingomation of Sergeant Major L$Dev ✨
+## ✨ The Spectacondulivious Codingomation of Sergeant Major L§Dev ✨
 
 
 Salut 👋
